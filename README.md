@@ -4,6 +4,8 @@ DevConnector
 
 This is a MERN stack application project that includes authentication, profiles and forum posts.
 
+Hostedon Heroku:  https://warm-bastion-42557.herokuapp.com/
+
 Quick Start
 
 # change default.json file in config folder
