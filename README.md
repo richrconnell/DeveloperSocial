@@ -4,6 +4,8 @@ DevConnector
 
 This is a MERN stack application project that includes authentication, profiles and forum posts.
 
+Udemy Course: MERN Stack Front To Back: Full Stack React, Redux & Node.js
+
 Hostedon Heroku:  https://warm-bastion-42557.herokuapp.com/
 
 Quick Start
